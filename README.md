@@ -1,2 +1,3 @@
 # myfirstrepository
-I have added this line
+Whatever happens happens for good only
+
